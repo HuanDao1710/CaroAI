@@ -1,0 +1,10 @@
+eclipse.preferences.version=1
+encoding//src/AI/CaroAI.java=UTF-8
+encoding//src/AI/Heuristic.java=UTF-8
+encoding//src/cell/Cell.java=UTF-8
+encoding//src/cell/EvalCell.java=UTF-8
+encoding//src/cell/RoundedBorder.java=UTF-8
+encoding//src/setting/Value.java=UTF-8
+encoding//src/state/State.java=UTF-8
+encoding//src/view/App.java=UTF-8
+encoding//src/view/Notification.java=UTF-8
